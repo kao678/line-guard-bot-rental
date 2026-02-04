@@ -30,4 +30,4 @@ app.post(
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log("🛡️ LINE BOT RUNNING ON
+  console.log("LINE BOT RUNNING ON PORT", PORT);
